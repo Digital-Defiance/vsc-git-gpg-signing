@@ -1,0 +1,12 @@
+{
+    "id": "git-gpg-sign",
+    "version": "1.0.4",
+    "name": "git-gpg-sign",
+    "options": {
+        "version": {
+            "type": "string",
+            "default": "latest",
+            "description": "Specify a version of git-gpg-sign binary"
+        }
+    }
+}
